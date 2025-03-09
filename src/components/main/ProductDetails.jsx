@@ -15,7 +15,7 @@ const ProductDetails = () => {
             <Box sx={{ display: "flex" }}>
                 <img
                     width={360}
-                    src="public\images\1.jpg"
+                    src="/public\images\1.jpg"
                     alt=""
                 />
             </Box>
@@ -38,7 +38,7 @@ const ProductDetails = () => {
                     gap={1}
                     my={2}
                 >
-                    {["public/images/1.jpg", "public/images/2.jpg"].map((item) => {
+                    {["/public/images/1.jpg", "public/images/2.jpg"].map((item) => {
                         return (
                             <img style={{ borderRadius: 3 }} width={90} height={100} key={item} src={item} alt="4*4" />
                         )
