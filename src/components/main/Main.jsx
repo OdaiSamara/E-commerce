@@ -74,7 +74,7 @@ const Main = () => {
                         <Card key={item} sx={{ maxWidth: 333, mt: 6, ":hover .MuiCardMedia-root": { rotate: "1deg", scale: "1.1", transition: "0.35s" } }}>
                             <CardMedia
                                 sx={{ height: 277 }}
-                                image="../../public/images/2.jpg"
+                                image="./images/2.jpg"
                                 title="green iguana"
                             />
 
