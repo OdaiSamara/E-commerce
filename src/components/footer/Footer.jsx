@@ -31,7 +31,7 @@ const Footer = () => {
                 >
                  Odai Samara
                 </Button>
-                ©2023
+                ©2025
             </Typography>
         </Box>
     )
