@@ -14,7 +14,7 @@ import IconSection from './IconSection';
 
 
 const mySlider = [
-    { text: "MEN", link: "./images/banner-15.jpg" },
+    { text: "ME", link: "./images/banner-15.jpg" },
     { text: "WOMEN", link: "./images/banner-25.jpg" }
 ]
 const Hero = () => {
